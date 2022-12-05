@@ -2,7 +2,7 @@
 **My first repository**
 
 1. One Piece
-(![lupi](https://user-images.githubusercontent.com/119821981/205524682-0cfdd447-b3a3-46c3-bb54-8093a5870053.jpg)
+![lupi](https://user-images.githubusercontent.com/119821981/205524682-0cfdd447-b3a3-46c3-bb54-8093a5870053.jpg)
 2. Stranger Things
 ![Stranger-Things-Max](https://user-images.githubusercontent.com/119821981/205524782-e85351df-e523-4fad-9abf-c034abd88503.jpg)
 3. Lacasa De Papel
